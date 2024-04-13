@@ -1,0 +1,1 @@
+import{b as t,s as n,j as s,N as i}from"./index-qBSOlqZ8.js";const o=()=>{const r=t(n).map(e=>s.jsx("li",{children:s.jsx(i,{to:`/user/${e.id}`,children:e.name})},e.id));return s.jsxs("section",{children:[s.jsx("h2",{children:"Users"}),r]})};export{o as default};
